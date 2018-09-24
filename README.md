@@ -3,4 +3,8 @@ testing
 
 This project request Python3 and the reqests package.
 
-'python3 find_meteor.py'
+
+First, install pipenv, then:
+
+pipenv install
+pipen run "python find_meteor.py"
